@@ -56,5 +56,4 @@ This transformation provides the agent with a reliable foundation for better cli
 
 ---
 
-[View Jupyter Notebook on GitHub](real_estate_data_cleaning.ipynb)
-*(Please replace `real_estate_data_cleaning.ipynb` with the actual name of your notebook file and ensure the link points to your notebook on GitHub once uploaded.)*
+[View Jupyter Notebook on GitHub](https://github.com/777awsome7/real-estate-data-cleaning-project/blob/main/real_estate_data_cleaning.ipynb)
